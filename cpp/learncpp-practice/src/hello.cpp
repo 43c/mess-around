@@ -2,7 +2,8 @@
 
 int main() {
 	int a = 5;
-	std::cout << "hello++" << std::endl;
+	int b { 2 };
+	std::cout << "hello++" << '\n';
 	return 0;
 }
 
